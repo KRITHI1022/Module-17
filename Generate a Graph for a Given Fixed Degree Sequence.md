@@ -87,9 +87,9 @@ if __name__ == "__main__":
 ```
 
 ## OUTPUT
-```
+
 <img width="891" height="696" alt="image" src="https://github.com/user-attachments/assets/b1c393f6-4056-4f90-a6af-59055a33e760" />
 
-```
+
 
 ## RESULT
